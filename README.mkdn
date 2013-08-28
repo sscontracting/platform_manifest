@@ -1,6 +1,4 @@
-			========
-			ssc repo
-			========
+ssc repo
 
 This branch is for the Vanir-based android-4.3_r2.1 ROM
 
